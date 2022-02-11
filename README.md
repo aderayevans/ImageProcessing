@@ -2,9 +2,9 @@
 
 Use when studying image processing at university, using QT Creator for labs
 
-![](Images/Screenshot 2022-02-11 101509.png)
+![](https://github.com/aderayevans/ImageProcessing/blob/main/Images/Screenshot%202022-02-11%20101509.png)
 
-![](Images/Screenshot 2022-02-11 101623.png)
+![](https://github.com/aderayevans/ImageProcessing/blob/main/Images/Screenshot%202022-02-11%20101623.png)
 
 Compatible with
 + C++11
