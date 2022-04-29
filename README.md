@@ -2,7 +2,7 @@
 
 Use when studying image processing at university, using QT Creator for labs
 
-![](https://github.com/aderayevans/ImageProcessing/blob/main/Images/Screenshot%202022-02-11%20101509.png)
+![](https://github.com/aderayevans/ImageProcessing/blob/main/Images/Screenshot%202022-04-29%20110816.png)
 
 ![](https://github.com/aderayevans/ImageProcessing/blob/main/Images/Screenshot%202022-02-11%20101623.png)
 
