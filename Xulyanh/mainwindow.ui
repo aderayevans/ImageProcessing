@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../../Users/Pictures/ico/8yzpzkjdqaz51.png</normaloff>../../../Users/Pictures/ico/8yzpzkjdqaz51.png</iconset>
+  </property>
   <widget class="QWidget" name="centralWidget">
    <widget class="QTabWidget" name="tabWidget">
     <property name="geometry">
@@ -204,19 +208,6 @@
         </item>
        </layout>
       </widget>
-      <widget class="QSlider" name="hsld_brightness">
-       <property name="geometry">
-        <rect>
-         <x>205</x>
-         <y>131</y>
-         <width>151</width>
-         <height>22</height>
-        </rect>
-       </property>
-       <property name="orientation">
-        <enum>Qt::Horizontal</enum>
-       </property>
-      </widget>
       <widget class="QWidget" name="layoutWidget_6">
        <property name="geometry">
         <rect>
@@ -254,19 +245,6 @@
          <width>51</width>
          <height>22</height>
         </rect>
-       </property>
-      </widget>
-      <widget class="QSlider" name="hsld_threshold">
-       <property name="geometry">
-        <rect>
-         <x>190</x>
-         <y>280</y>
-         <width>161</width>
-         <height>22</height>
-        </rect>
-       </property>
-       <property name="orientation">
-        <enum>Qt::Horizontal</enum>
        </property>
       </widget>
       <widget class="QLabel" name="lbl_dimensions">

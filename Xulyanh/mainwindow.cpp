@@ -13,16 +13,12 @@ MainWindow::MainWindow(QWidget *parent) :
 
     ui->spb_brightness->setMaximum(255);
     ui->spb_brightness->setMinimum(0);
-    ui->hsld_brightness->setMaximum(255);
-    ui->hsld_brightness->setMinimum(0);
 
     ui->spb_contrast->setMaximum(100);
     ui->spb_contrast->setMinimum(0);
 
     ui->spb_threshold->setMaximum(255);
     ui->spb_threshold->setMinimum(0);
-    ui->hsld_threshold->setMaximum(255);
-    ui->hsld_threshold->setMinimum(0);
 
     ui->spb_threshold->setValue(ui->spb_threshold->maximum()/2);
 
